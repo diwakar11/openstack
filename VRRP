@@ -2,3 +2,9 @@
 https://blog.codecentric.de/en/2016/11/highly-available-vips-openstack-vms-vrrp/ ---Highly available VIPs on OpenStack VMs with VRRP
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/10/html/networking_guide/sec-allowed-address-pairs
+CONFIGURE ALLOWED-ADDRESS-PAIRS
+---------------------------------------------------------------------------------------------------------------------------------------
+https://docs.openstack.org/newton/networking-guide/deploy-ovs-ha-vrrp.html
+Open vSwitch: High availability using VRRP
+----------------------------------------------------------------------------------------------------------------------------------------
