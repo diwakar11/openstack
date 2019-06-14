@@ -8,3 +8,14 @@ CONFIGURE ALLOWED-ADDRESS-PAIRS
 https://docs.openstack.org/newton/networking-guide/deploy-ovs-ha-vrrp.html
 Open vSwitch: High availability using VRRP
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+# List
+openstack port list
+
+# Delete
+openstack port delete $PORT
+
+# Show
+openstack port show $PORT
+
+----------------------------------------------------------------------------------------------------------------------------------------
