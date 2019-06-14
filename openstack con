@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+
+OpenStack-Ansible Deployment (openstack-ansible)
+
+https://docs.openstack.org/openstack-ansible/stein/user/
+
+For information on how to deploy your OpenStack-Ansible cloud, refer to the Deployment Guide for step-by-step instructions on 
+how to deploy the OpenStack packages and dependencies on your cloud using OpenStack-Ansible.
+
+For information on how to manage and operate OpenStack-Ansible, see the see the Operations Guide.
+
+For in-depth technical information, see the OpenStack-Ansible Reference.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Deploying OpenStack using Ansible in Docker Containers (kolla) (kolla-ansible)
+
+https://docs.openstack.org/kolla-ansible/stein/user/
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
